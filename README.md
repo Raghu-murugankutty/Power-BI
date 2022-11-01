@@ -1,5 +1,4 @@
-# Power-BI Sample projects
-
+# This Repo contains Power-BI projects and Dashboard
 
 #### 1) Sales Dashboard Link:- https://app.powerbi.com/groups/me/reports/2fc9a6cd-8698-436d-b70d-1b9411c13e03/ReportSection
 #### 2) Sales Dashboard Link:-  https://app.powerbi.com/groups/me/reports/f2fc7094-0034-4ff3-9219-92532424b11f/ReportSection 
