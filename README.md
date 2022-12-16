@@ -13,6 +13,7 @@
 
 ## Time series data forecasting
 <img width="650" alt="Time series screenshot" src="https://user-images.githubusercontent.com/41443395/170303785-f23d1e01-52b9-44eb-aff6-830cdafb5e30.png">
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/41443395/208118248-7a077bd9-1254-4d6d-b1e3-72e97d5a5c54.png">
 
 
 ## schema
