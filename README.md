@@ -4,8 +4,11 @@
 #### 2) Sales Dashboard Link:-  https://app.powerbi.com/groups/me/reports/f2fc7094-0034-4ff3-9219-92532424b11f/ReportSection 
 #### 3) Time series forecasting Link:- https://app.powerbi.com/groups/me/reports/4dcba48a-0228-4eef-8d52-72bc099df4ab/ReportSection87f7fed03b93553b0216
 
+## Hotel dashboard screenshot
+<img width="488" alt="image" src="https://github.com/Raghu-murugankutty/Power-BI-Projects/assets/41443395/f61aa7fb-ec67-4271-a8df-9e80c1b4bc6d">
 
-## Sales Dashboard screenshot
+
+## Sales dashboard screenshot
 <img width="650" alt="Sales Dashboard screenshot" src="https://user-images.githubusercontent.com/41443395/170298963-c76d28fd-9904-43fe-85f9-6d1a0f551c43.png">
 
 
